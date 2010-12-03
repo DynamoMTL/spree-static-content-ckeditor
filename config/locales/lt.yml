@@ -1,0 +1,22 @@
+---
+lt:
+    pages: Puslapiai
+    ext_static_content_static_pages: Statiniai puslapiai
+    ext_static_content_static_pages_desc: Tvarkyti puslapius naudojant WYSIWYG redaktorių.
+    ext_static_content_title: Antraštė
+    ext_static_content_slug: Adresas
+    ext_static_content_body: Tekstas
+    ext_static_content_new_page: Naujas puslapis
+    ext_static_content_editing_page: Puslapio redagavimas
+    ext_static_content_foreign_link: Nuoroda į kitą svetainę (URL)
+    ext_static_content_show_in_sidebar: Rodyti šoniniame stulpelyje
+    ext_static_content_show_in_header: Rodyti headeryje
+    ext_static_content_show_in_footer: Rodyti footeryje
+    ext_static_content_position: Pozicija
+    ext_static_content_visible: Matomas
+    ext_static_content_confirm_delete: Tikrai ?
+    ext_static_content_link: Nuoroda
+    ext_static_content_meta_title: Meta antraštė
+    ext_static_content_meta_keywords: Meta raktažodžiai
+    ext_static_content_meta_description: Meta aprašymas
+    ext_static_content_layout: Šablonas
